@@ -1,3 +1,3 @@
 ## Cognizant Internship 
-## Cohort GN22CDBDS001
+## Cohort GN22DTDS001
 ## Track - AI & ML
